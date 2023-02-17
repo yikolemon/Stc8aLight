@@ -1,4 +1,4 @@
-# Stc8aLight
+# auto-light
 本工程是在单片机结课设计上进行的拓展。
 使用springboot+vue+stc8a单片机的忘关灯控制系统。
 欢迎课程需求的小伙伴进行交流和学习。
